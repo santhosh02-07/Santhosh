@@ -1,4 +1,4 @@
-## SALES DATA ANALYSIS:
+# SALES DATA ANALYSIS:
        
        This project presents a comprehensive data science analysis of sales transaction data. It walks through the complete pipeline of importing, cleaning, transforming, and exploring real-world e-commerce sales data.
 
